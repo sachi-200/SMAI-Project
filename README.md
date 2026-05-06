@@ -6,7 +6,7 @@ A tourist points their phone at an Indian monument; the app names it, gives hist
 
 | File | Purpose |
 |------|---------|
-| `train_monument_classifier.py` | Training script (run on Kaggle GPU) |
+| `training_notebook.ipynb` | Training script (run on Kaggle GPU) |
 | `app.py` | Streamlit web app |
 | `build_metadata.py` | One-time Wikipedia metadata scraper |
 | `requirements.txt` | Python dependencies |
