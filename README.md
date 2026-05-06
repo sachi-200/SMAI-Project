@@ -33,3 +33,7 @@ If the trained model is unavailable, the app falls back to **CLIP (openai/clip-v
 ## Deployment Link
 
 smai-project-dxapenz4fgkfhfmkvv6h5y.streamlit.app
+
+## Demo Video Link
+
+https://drive.google.com/file/d/1RIKzMAA3jQlc_cRn_nx5dbZNR_B2tn25/view?usp=sharing
