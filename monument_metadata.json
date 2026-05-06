@@ -1,108 +1,4 @@
 {
-  "Taj Mahal": {
-    "history": "The Taj Mahal ( TAHJ mə-HAHL, TAHZH -⁠; Hindustani: [t̪ɑːd͡ʒ ˈmɛɦ(ɛ)l]; lit. 'Crown of the Palace') is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan (r. 1628–1658), to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.\nConstruction of the mausoleum was completed in 1648, but work continued on other phases of the project for another five years.",
-    "hours": "Sunrise–Sunset (Fri closed)",
-    "ticket": "₹50 / ₹1100",
-    "location": "Agra, UP",
-    "lat": 27.1751,
-    "lng": 78.0421
-  },
-  "Red Fort": {
-    "history": "The Red Fort (Lal Qila in Hindi; Hindi pronunciation: [laːl 'qɪlaː]) is a historic Mughal fort located in the Old Delhi area of Delhi, India. It served as the main residence of the Mughal emperors. Commissioned by Emperor Shah Jahan on the 12th of May 1639, the fort was constructed following his decision to shift the Mughal capital from Agra to Delhi.",
-    "hours": "9:30–4:30 (Mon closed)",
-    "ticket": "₹35 / ₹500",
-    "location": "Delhi",
-    "lat": 28.6562,
-    "lng": 77.241
-  },
-  "Qutub Minar": {
-    "history": "The Qutb Minar, also spelled Qutub Minar and Qutab Minar, is a minaret and victory tower, built during the Delhi sultanate, and comprising the Qutb complex, a UNESCO World Heritage Site in Mehrauli, South Delhi, India. It was mostly built between 1199 and 1220, contains 399 steps, and is one of the most-frequented heritage spots in the city. After defeating Prithviraj Chauhan, the last Hindu ruler of Delhi before the Ghurid conquest of the region, Qutab-ud-din Aibak initiated the construction of the victory tower, but only managed to finish the first level.",
-    "hours": "Sunrise–Sunset",
-    "ticket": "₹35 / ₹550",
-    "location": "New Delhi",
-    "lat": 28.5244,
-    "lng": 77.1855
-  },
-  "Humayun's Tomb": {
-    "history": "Humayun's tomb (Persian: Maqbara-i Humayun) is the tomb of Mughal Emperor Humayun situated in Delhi, India. The tomb was commissioned by Humayun's first wife and chief consort, Empress Bega Begum under her patronage in 1558, and designed by Mirak Mirza Ghiyas and his son, Sayyid Muhammad, Persian architects chosen by her. It was the first garden-tomb on the Indian subcontinent, and is located in Nizamuddin East, Delhi, close to the Dina-panah Citadel, also known as Purana Qila (Old Fort), that Humayun found in 1538.",
-    "hours": "Sunrise–Sunset",
-    "ticket": "₹35 / ₹550",
-    "location": "New Delhi",
-    "lat": 28.5933,
-    "lng": 77.2507
-  },
-  "Hawa Mahal": {
-    "history": "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers.\nHawa Mahal, also known as the “palace of winds“ was built in 1799 by  the Maharaja Sawai Pratap Singh. It is considered unique as it has many small windows and balconies that seem like a honeycomb.",
-    "hours": "9:00–5:00",
-    "ticket": "₹50 / ₹200",
-    "location": "Jaipur, RJ",
-    "lat": 26.9239,
-    "lng": 75.8267
-  },
-  "India Gate": {
-    "history": "India Gate, formerly known as the All India War Memorial, is a prominent war memorial situated on the eastern edge of the ceremonial axis of New Delhi India, officially known as Kartavya Path. It stands as a memorial commemorating 74,187 soldiers of the Indian Army who died between 1914 and 1921 in the First World War, in France, Flanders, Mesopotamia, Persia, East Africa, Gallipoli and the Third Anglo-Afghan War. Around 13,300 servicemen’s names, including those of some British soldiers and officers, are inscribed on the gate.",
-    "hours": "Open 24 hours",
-    "ticket": "Free",
-    "location": "New Delhi",
-    "lat": 28.6129,
-    "lng": 77.2295
-  },
-  "Mysore Palace": {
-    "history": "Mysore Palace, also known as Amba Vilas Palace, is a historical palace and a royal residence. It is located in Mysore, Karnataka, India. It used to be the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore.",
-    "hours": "10:00–5:30",
-    "ticket": "₹70 / ₹200",
-    "location": "Mysuru, KA",
-    "lat": 12.3052,
-    "lng": 76.6552
-  },
-  "Konark Sun Temple": {
-    "history": "Konark Sun Temple is a 13th-century CE Hindu Sun temple at Konark about 35 kilometres (22 mi) northeast from Puri city on the coastline in Puri district, Odisha, India. The temple is attributed to king Narasingha Deva I of the Eastern Ganga dynasty about 1250 CE. Dedicated to the Hindu Sun-god Surya, it reflects the pinnacle of kalingan architecture and artistic excellence, what remains of the temple complex has the appearance of a 100-foot (30 m) high chariot with immense wheels and horses, all carved from stone.",
-    "hours": "6:00–8:00",
-    "ticket": "₹40 / ₹600",
-    "location": "Konark, OD",
-    "lat": 19.8876,
-    "lng": 86.0945
-  },
-  "Meenakshi Temple": {
-    "history": "Meenakshi Temple, also known as Meenakshi Sundareswarar Temple, is a historic Hindu temple located on the southern bank of the Vaigai River in Madurai, Tamil Nadu, India. It is dedicated to Meenakshi, a form of Parvati, and her consort Sundareswarar (Shiva). The temple is theologically significant as it represents a confluence of various denominations of Hinduism such as Shaivism, Shaktism, and Vaishnavism.\nWhile the Sangam literature mentions the temple city of Madurai, the existence of a temple is first referenced in the Tamil texts from 6th century CE.",
-    "hours": "5:00–12:30 & 4:00–9:30",
-    "ticket": "Free",
-    "location": "Madurai, TN",
-    "lat": 9.9195,
-    "lng": 78.1193
-  },
-  "Charminar": {
-    "history": "The Charminar (lit. 'four minarets') is a monument located in Hyderabad, Telangana, India. Constructed in 1591, the landmark is a symbol of Hyderabad and officially incorporated in the emblem of Telangana. The Charminar's long history includes the existence of a mosque on its top floor for more than 434 years.",
-    "hours": "9:30–5:30 (Fri closed)",
-    "ticket": "₹25 / ₹300",
-    "location": "Hyderabad, TG",
-    "lat": 17.3616,
-    "lng": 78.4747
-  },
-  "Amber Fort": {
-    "history": "Amer Fort or Amber Fort is a fort located in Amer, Rajasthan, India. Amer is a town with an area of 4 square kilometres (1.5 sq mi) located 11 kilometres (6.8 mi) from Jaipur, the capital of Rajasthan. Located high on a hill, it is the principal tourist attraction in Jaipur.",
-    "hours": "8:00–5:30",
-    "ticket": "₹100 / ₹500",
-    "location": "Amer, RJ",
-    "lat": 26.9855,
-    "lng": 75.8513
-  },
-  "Victoria Memorial": {
-    "history": "The Victoria Memorial is a large marble monument in the Maidan in Central Kolkata (Calcutta), having its entrance on the Queen's Way. It was built between 1906 and 1921 by the British Raj. It is dedicated to the memory of Queen Victoria, the Empress of India from 1876 to 1901.\nThe work of construction was entrusted to  Martin & Co.",
-    "hours": "10:00–5:00 (Mon closed)",
-    "ticket": "₹30 / ₹500",
-    "location": "Kolkata, WB",
-    "lat": 22.5448,
-    "lng": 88.3426
-  },
-  "Gateway of India": {
-    "history": "The Gateway of India is an arch-monument, completed in 1924, on the waterfront of Mumbai, Maharashtra, India. It was erected to commemorate the landing of King George V of the United Kingdom for his coronation as the Emperor of India in December 1911 at Strand Road near Wellington Fountain. He was the first British monarch to visit India.\nThe foundation stone was laid in March 1913 for a monument built in the Indo-Saracenic style, inspired by elements of 16th-century Gujarati architecture.",
-    "hours": "Open 24 hours",
-    "ticket": "Free",
-    "location": "Mumbai, MH",
-    "lat": 18.922,
-    "lng": 72.8347
-  },
   "Ajanta Caves": {
     "history": "The Ajanta Caves are 30 rock-cut Buddhist cave monuments dating from the second century BCE to about 480 CE in Aurangabad district of Maharashtra state in India. Ajanta Caves are a  UNESCO World Heritage Site. Universally regarded as masterpieces of Buddhist religious art, the caves include paintings and rock-cut sculptures, described as among the finest surviving examples of ancient Indian art, particularly expressive paintings that present emotions through gesture, pose and form.\nThe caves were built in two phases, the first starting around the second century BCE and the second occurring from 400 to 650 CE, according to older accounts, or in a brief period of 460–480 CE according to later scholarship.\nThe Ajanta Caves constitute ancient monasteries (Viharas) and worship-halls (Chaityas) of different Buddhist traditions carved into a 75-metre (246 ft) wall of rock.",
     "hours": "9:00–5:30 (Mon closed)",
@@ -110,6 +6,22 @@
     "location": "Aurangabad, MH",
     "lat": 20.5519,
     "lng": 75.7033
+  },
+  "Charar-E- Sharif": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "Chhota_Imambara": {
+    "history": "Imambara Hussainabad Mubarak, popularly known as Chhota Imambara, is a monument located in the city of Lucknow, Uttar Pradesh, India. It took 54 years to build. Built as an imambara, or a congregation hall for Shia Muslims, by Muhammad Ali Shah, the Nawab of Awadh in 1838, it was to serve as a mausoleum for himself and his mother, who is buried beside him.\nThe significance of Panjetan, the holy five, is emphasized with five main doorways.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
   },
   "Ellora Caves": {
     "history": "The Ellora Caves are a UNESCO World Heritage Site in Aurangabad, India. It is one of the largest rock-cut  cave complexes in the world, with artwork dating from AD 600–1000, including Hindu, Buddhist, and Jain caves. The complex is a leading example of Indian rock-cut architecture, and several are not strictly \"caves\" in that they have no roof.",
@@ -119,14 +31,6 @@
     "lat": 20.0268,
     "lng": 75.1788
   },
-  "Sanchi": {
-    "history": "Sanchi Stupa is a Buddhist complex, famous for its Great Stupa, on a hilltop at Sanchi Town in Raisen District of the State of Madhya Pradesh, India. It is located, about 23 kilometers from Raisen town, the district headquarter and 46 kilometres (29 mi) north-east of Bhopal, capital of Madhya Pradesh.\nThe Great Stupa at Sanchi is one of the oldest stone structures in India, and an important monument to the historical architecture of India. It was originally commissioned by the Mauryan emperor Ashoka in the 3rd century BCE.",
-    "hours": "Sunrise–Sunset",
-    "ticket": "₹30 / ₹500",
-    "location": "Sanchi, MP",
-    "lat": 23.4798,
-    "lng": 77.7395
-  },
   "Fatehpur Sikri": {
     "history": "Fatehpur Sikri (Hindi: [ˈfətɛɦpʊɾ ˈsiːkɾiː]) is a town in the Agra District of Uttar Pradesh, India. Situated 35.7 kilometres (22.2 mi) from the district headquarters of Agra, Fatehpur Sikri itself was founded as the capital of the Mughal Empire in 1571 by Emperor Akbar, serving this role from 1571 to 1585, when Akbar abandoned it due to a campaign in Punjab and was later completely abandoned in 1610.\nThe name of the city is derived from the village called Sikri which previously occupied the location. An Archaeological Survey of India (ASI) excavation from 1999 to 2000 indicated that there was housing, temples and commercial centres here before Akbar built his capital.",
     "hours": "Sunrise–Sunset",
@@ -135,13 +39,29 @@
     "lat": 27.0945,
     "lng": 77.6632
   },
-  "Mahabalipuram": {
-    "history": "Mamallapuram (also known as Mahabalipuram), is a town in Chengalpattu district in the southeastern Indian state of Tamil Nadu, best known for the UNESCO World Heritage Site of 7th- and 8th-century Hindu Group of Monuments at Mahabalipuram. It is one of the famous tourist sites in India. The ancient name of the place is Thirukadalmallai.",
-    "hours": "6:00–6:00",
-    "ticket": "₹40 / ₹600",
-    "location": "Chengalpattu, TN",
-    "lat": 12.6269,
-    "lng": 80.1927
+  "Gateway of India": {
+    "history": "The Gateway of India is an arch-monument, completed in 1924, on the waterfront of Mumbai, Maharashtra, India. It was erected to commemorate the landing of King George V of the United Kingdom for his coronation as the Emperor of India in December 1911 at Strand Road near Wellington Fountain. He was the first British monarch to visit India.\nThe foundation stone was laid in March 1913 for a monument built in the Indo-Saracenic style, inspired by elements of 16th-century Gujarati architecture.",
+    "hours": "Open 24 hours",
+    "ticket": "Free",
+    "location": "Mumbai, MH",
+    "lat": 18.922,
+    "lng": 72.8347
+  },
+  "Humayun_s Tomb": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "India gate pics": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
   },
   "Khajuraho": {
     "history": "Khajuraho () is a city, near Chhatarpur in Chhatarpur district of the Indian state of Madhya Pradesh, which was the early as well as religious capital of Chandel Empire of Jejakabhukti. Chandela emperors established this city and named it Kharjuravahaka, which is derived from the Sanskrit word kharjur meaning \"date palm. This city is one of the most popular tourist destinations in India, Khajuraho has the country's largest group of medieval Hindu and Jain temples, famous for their erotic sculptures from Chandela Era.",
@@ -151,44 +71,124 @@
     "lat": 24.8502,
     "lng": 79.9218
   },
-  "Nalanda": {
-    "history": "Nalanda (IAST: Nālandā, pronounced [naːlən̪d̪aː]) was a renowned Buddhist mahavihara (great monastery) in medieval Magadha (modern-day Bihar), eastern India. Widely considered to be among the greatest centres of learning in the ancient world and often referred to as \"the world's first residential university\", it was located near the city of Rajagriha (now Rajgir), roughly 90 kilometres (56 mi) southeast of Pataliputra (now Patna). Operating for almost a thousand years from 427 CE until around 1400 CE, Nalanda mahavihara played a vital role in promoting the patronage of arts, culture and academics during the 5th and 6th century CE, a period that has since been described as the \"Golden Age of India\" by scholars.",
-    "hours": "9:00–5:00 (Fri closed)",
-    "ticket": "₹20 / ₹300",
-    "location": "Nalanda, BR",
-    "lat": 25.1357,
-    "lng": 85.4437
-  },
-  "Rani ki vav": {
-    "history": "Rani ki Vav (lit. 'The Queen's Stepwell') is a stepwell situated in the town of Patan in Gujarat, India. It is located on the banks of the Saraswati River. Its construction is attributed to Udayamati, the spouse of the 11th-century Chaulukya king Bhima I.",
-    "hours": "8:00–6:00",
-    "ticket": "₹35 / ₹550",
-    "location": "Patan, GJ",
-    "lat": 23.8588,
-    "lng": 72.1013
-  },
-  "Brihadeeswarar Temple": {
-    "history": "Brihadisvara Temple, called Rajarajesvaram (lit. 'Lord of Rajaraja') by its builder, and known locally as Thanjai Periya Kovil (lit. 'Thanjavur Big Temple') and Peruvudaiyar Kovil (lit. 'Temple of the great lord'), is a Shaivite Hindu temple built in a Chola architectural style located on the south bank of the Cauvery river in Thanjavur, Tamil Nadu, India. It is one of the largest Hindu temples and an exemplar of Tamil architecture. It is also called Dakshina Meru (Meru of the South).",
-    "hours": "6:00–12:30 & 4:00–8:30",
-    "ticket": "Free",
-    "location": "Thanjavur, TN",
-    "lat": 10.7825,
-    "lng": 79.1318
-  },
-  "Golkonda fort": {
+  "Sun Temple Konark": {
     "history": "Historical information unavailable.",
-    "hours": "8:00–5:00",
-    "ticket": "₹25 / ₹200",
-    "location": "Hyderabad, TG",
-    "lat": 17.3833,
-    "lng": 78.4011
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
   },
-  "Jaisalmer Fort": {
-    "history": "Jaisalmer Fort is situated in the city of Jaisalmer, in the Indian state of Rajasthan. It is one of the very few \"living forts\" in the world (such as Carcassonne, France), as nearly one fourth of the old city's population still resides within the fort. For the better part of its 860-year history, the fort was the city of Jaisalmer.",
-    "hours": "Open 24 hours (museum 9–5)",
-    "ticket": "₹50 / ₹250",
-    "location": "Jaisalmer, RJ",
-    "lat": 26.9124,
-    "lng": 70.9101
+  "alai_darwaza": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "alai_minar": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "basilica_of_bom_jesus": {
+    "history": "The Basilica of Bom Jesus (Portuguese: Basílica do Bom Jesus; Goan Konkani: Borea Jezuchi Bajilika) is a Catholic basilica in Goa, in the Konkan region of India. The church is a pilgrimage centre and recognised by UNESCO as a World Heritage Site. The basilica is located in Old Goa, the former capital of Portuguese India, and holds the body of St Francis Xavier.\nBom Jesus (meaning, \"Good Jesus\" in Portuguese) is the name used for the Ecce Homo in Portuguese speaking countries.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "charminar": {
+    "history": "The Charminar (lit. 'four minarets') is a monument located in Hyderabad, Telangana, India. Constructed in 1591, the landmark is a symbol of Hyderabad and officially incorporated in the emblem of Telangana. The Charminar's long history includes the existence of a mosque on its top floor for more than 434 years.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "golden temple": {
+    "history": "The Golden Temple is a gurdwara located in Amritsar, Punjab, India. It is the pre-eminent spiritual site of Sikhism and is one of its holiest sites, alongside the Gurdwara Darbar Sahib in Kartarpur and the Gurdwara Janam Asthan in Nankana Sahib, both in Punjab, Pakistan.\nThe sarovar (holy pool) on the site of the gurdwara was completed by the fourth Sikh Guru, Guru Ram Das, in 1577. In 1604, Guru Arjan, the fifth Sikh Guru, placed a copy of the Adi Granth in the Golden Temple and played a prominent role in its development.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "hawa mahal pics": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "iron_pillar": {
+    "history": "Iron pillar may refer to:\n\nIron pillar of Delhi, about 23 feet high\nIron pillar of Dhar, now-fragmented, originally over 43 feet high\nIron pillar of Kodachadri, about 40 feet high.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "jamali_kamali_tomb": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "lotus_temple": {
+    "history": "The Lotus Temple is a Baháʼí House of Worship in New Delhi, India. It was completed in December 1986. Notable for its lotus-like shape, it has become a prominent attraction in the city.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "mysore_palace": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "qutub_minar": {
+    "history": "The Qutb Minar, also spelled Qutub Minar and Qutab Minar, is a minaret and victory tower, built during the Delhi sultanate, and comprising the Qutb complex, a UNESCO World Heritage Site in Mehrauli, South Delhi, India. It was mostly built between 1199 and 1220, contains 399 steps, and is one of the most-frequented heritage spots in the city. After defeating Prithviraj Chauhan, the last Hindu ruler of Delhi before the Ghurid conquest of the region, Qutab-ud-din Aibak initiated the construction of the victory tower, but only managed to finish the first level.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "tajmahal": {
+    "history": "The Taj Mahal ( TAHJ mə-HAHL, TAHZH -⁠; Hindustani: [t̪ɑːd͡ʒ ˈmɛɦ(ɛ)l]; lit. 'Crown of the Palace') is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan (r. 1628–1658), to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.\nConstruction of the mausoleum was completed in 1648, but work continued on other phases of the project for another five years.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "tanjavur temple": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
+  },
+  "victoria memorial": {
+    "history": "Historical information unavailable.",
+    "hours": "Check official website",
+    "ticket": "Check official website",
+    "location": "India",
+    "lat": null,
+    "lng": null
   }
 }

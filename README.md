@@ -1,7 +1,6 @@
-# T12.1 – Monuments & Heritage Identifier
+# T12.1 – Monuments & Heritage Identifier: Top monuments fine-tuned
 
-A tourist points their phone at an Indian monument; the app names it, gives history,
-opening hours, ticket prices, and a Google Maps link.
+A tourist points their phone at an Indian monument; the app names it, gives history, opening hours, ticket prices, and a Google Maps link.
 
 ## Files
 
@@ -44,3 +43,5 @@ If the trained model is unavailable, the app falls back to
 - CLIP zero-shot classification
 - Wikipedia API scraping for metadata
 - Streamlit for deployment
+
+smai-project-dxapenz4fgkfhfmkvv6h5y.streamlit.app
