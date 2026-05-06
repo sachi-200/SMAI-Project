@@ -239,7 +239,7 @@ def predict_clip(img: Image.Image):
 
 # ── UI ────────────────────────────────────────────────────────
 st.title("T12.1 - Indian Monuments & Heritage Identifier")
-st.caption("Upload a photo of an Indian monument to get its name, history, visiting hours, ticket prices, and location.")
+st.caption("Upload a photo of an Indian monument to get its name, history, and location.")
 
 # Sidebar: mode info
 with st.sidebar:
