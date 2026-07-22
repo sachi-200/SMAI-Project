@@ -1,39 +1,56 @@
-# T12.1 – Monuments & Heritage Identifier: Top monuments fine-tuned
+# Monuments & Heritage Identifier
 
-A tourist points their phone at an Indian monument; the app names it, gives history, opening hours, ticket prices, and a Google Maps link.
+An AI-powered Streamlit application that identifies **Indian monuments** from an uploaded image and provides useful visitor information including historical background, opening hours, ticket prices, and a Google Maps link.
 
-## Files
+---
 
-| File | Purpose |
-|------|---------|
-| `training_notebook.ipynb` | Training script (run on Kaggle GPU) |
-| `app.py` | Streamlit web app |
-| `build_metadata.py` | One-time Wikipedia metadata scraper |
-| `requirements.txt` | Python dependencies |
+## Features
+
+- Upload an image of an Indian monument
+- Predict the monument using a fine-tuned deep learning model
+- Display a short history of the monument
+- Show opening hours
+- Display ticket prices
+- Open the monument directly in Google Maps
+- Automatic CLIP zero-shot fallback if the trained model is unavailable
+
+---
 
 ## Model Architecture
 
+### Primary Model
+
 - **Backbone:** EfficientNet-B2 (ImageNet pretrained)
-- **Fine-tuning:** Last 3 MBConv blocks + custom classifier head
-- **Input:** 224×224 RGB images
+- **Input Size:** 224 × 224 RGB
+- **Fine-tuning Strategy:**
+  - Freeze early layers
+  - Fine-tune the last 3 MBConv blocks
+  - Replace classifier with a custom classification head
 - **Output:** 24 monument classes
-- **Training:** 15 epochs, AdamW + CosineAnnealingLR, label smoothing 0.1
+
+### Training Configuration
+
+- Epochs: **15**
+- Optimizer: **AdamW**
+- Learning Rate Scheduler: **CosineAnnealingLR**
+- Label Smoothing: **0.1**
+
+---
 
 ## Zero-shot Fallback
 
-If the trained model is unavailable, the app falls back to **CLIP (openai/clip-vit-base-patch32)** zero-shot classification.
+If the fine-tuned model weights are unavailable, the application automatically falls back to:
 
-## Skills Used
+- **CLIP (openai/clip-vit-base-patch32)**
 
-- Transfer learning / fine-tuning (EfficientNet-B2)
-- CLIP zero-shot classification
-- Wikipedia API scraping for metadata
-- Streamlit for deployment
+This enables zero-shot monument recognition using only class names without requiring additional training.
 
-## Deployment Link
+---
 
-smai-project-dxapenz4fgkfhfmkvv6h5y.streamlit.app
+## Deployment
 
-## Demo Video Link
+**Streamlit App**
 
-https://drive.google.com/file/d/1RIKzMAA3jQlc_cRn_nx5dbZNR_B2tn25/view?usp=sharing
+https://smai-project-dxapenz4fgkfhfmkvv6h5y.streamlit.app
+
+---
