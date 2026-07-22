@@ -1,4 +1,4 @@
-# Monuments & Heritage Identifier
+# MonuLens - Monuments Identifier
 
 An AI-powered Streamlit application that identifies **Indian monuments** from an uploaded image and provides useful visitor information including historical background, opening hours, ticket prices, and a Google Maps link.
 
